@@ -48,7 +48,7 @@ function PreviewRegisterContainer({navigation}) {
           />
       </View>
      
-      {listData?.length > 1 && 
+      {listData?.length > 0 && 
         <View>
           <Text style={styles.textTitle}>
             Daftar Hasil Registrasi
@@ -87,6 +87,7 @@ const styles = StyleSheet.create({
   },
   textTitle:{
     paddingHorizontal:10,
+    marginBottom:15,
     fontSize:18,
     fontWeight:'700',
     textTransform:'capitalize',
