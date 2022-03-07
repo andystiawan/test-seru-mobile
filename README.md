@@ -41,6 +41,7 @@
     
   - ### Registrasi
     <img alt="android" src="https://user-images.githubusercontent.com/43071417/157004163-e3bd9866-b877-445e-b52d-9e8c48d82f19.png" width="200" /> 
+    <img alt="android" src="https://user-images.githubusercontent.com/43071417/157005539-ea382957-5ac1-4a9b-a724-05f7e40e584c.png" width="200" /> 
     <img alt="android" src="https://user-images.githubusercontent.com/43071417/157004052-08686a93-a745-4498-828f-c561c8e7326c.png" width="200" />
     <img alt="android" src="https://user-images.githubusercontent.com/43071417/157004630-f75bb82b-b4a9-4fe0-b67e-e58d60e2132b.png" width="200" />
     
